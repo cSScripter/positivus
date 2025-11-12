@@ -7,7 +7,7 @@ export default function Services() {
         <h2 className="bg-highlight rounded-xl px-3">Services</h2>
         <p className="max-w-[580px] text-center">At our digital marketing agency, we offer a range of services to help businesses grow and succeed online. These services include:</p>
 </div>
-<div className="lg:mt-18 mt-9 grid grid-cols-1 xl:grid-cols-2 gap-10 justify-items-center xl:justify-items-stretch">
+<div className="lg:mt-18 mt-9 grid grid-cols-1 xl:grid-cols-2 gap-5 md:gap-10 justify-items-center xl:justify-items-stretch">
 {/* 
 Cards */}
 <div className="md:w-[600px] max-w-[600px] h-[310px] rounded-[2.5rem] bg-[#F3F3F3] border border-black border-b-6 border-b-black transform transition-transform duration-300 hover:scale-105 flex items-center justify-between px-5 lg:px-[50px]">

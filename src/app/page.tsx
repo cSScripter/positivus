@@ -4,6 +4,7 @@ import Logos from "@/components/logoscroller";
 import Services from "@/components/services";
 import MakeThingsHappen from "@/components/makethingshappen";
 import CaseStudies from "@/components/casestudies";
+import WorkingProcess from "@/components/workingprocess";
 
 export default function HomeSection() {
   return (
@@ -13,6 +14,7 @@ export default function HomeSection() {
     <Services />
     <MakeThingsHappen />
     <CaseStudies />
+    <WorkingProcess />
     </>
   );
 }
